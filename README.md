@@ -1,2 +1,2 @@
 # GIT
-Learning abou git
+Learning about git
